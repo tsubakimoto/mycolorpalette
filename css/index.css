@@ -1,0 +1,47 @@
+@charset 'utf-8';
+
+body {
+	font-family: 'Source Code Pro', sans-serif;
+	padding-top: 10px;
+}
+
+.row {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.min, .max {
+	color: rgba(0, 0, 0, 0.5);
+}
+
+.box {
+	padding: 10px 0;
+	background: rgba(255, 255, 255, 1.0);
+	box-shadow: 3px 3px rgba(0, 0, 0, 0.1);
+	text-align: center;
+	border-radius: 10px;
+}
+
+.input-append {
+  margin-bottom: 0;
+}
+
+#color-tabs {
+	margin-bottom: 0;
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+	.hex {
+		display: none;
+	}
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+	
+}

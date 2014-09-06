@@ -1,0 +1,16 @@
+{
+  "Items": [
+    {
+      "Name": "Common"
+      , "Colors": ["e38692", "f6d580", "fff280", "cfe283", "64c99b", "6bbed5", "6eb7db", "a4a9cf", "c97fb4", "db7bb1"]
+    }
+    , {
+      "Name": "2013TrendColors"
+      , "Colors": ["009375", "9bbdaa", "b6cc3d", "b186b7", "e3343a", "ff8855", "fcd858", "79a0c0", "f0d2c1", "244373"]
+    }
+    , {
+      "Name": "2014TrendColors"
+      , "Colors": ["accbe8", "9295ca", "9eceb4", "a9b2b1", "cdb48c", "ffd602", "e66665", "f47d43", "ae70af", "076bb6"]
+    }
+  ]
+}
